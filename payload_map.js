@@ -135,7 +135,7 @@ const payload_map = [
         toPort: 9021
     },
     {
-        displayTitle: "ShadowMountPlus_1.7beta2",
+        displayTitle: "ShadowMountPlus_1.7beta4",
         description: "Mount games has never been easier with shadowmountplus",
         fileName: "shadowmountplus.elf",
         author: "drakmor",
