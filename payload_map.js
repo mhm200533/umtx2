@@ -41,7 +41,7 @@ const payload_map = [
         toPort: 9021
     },
     {
-        displayTitle: "ps5-kstuff-lite",
+        displayTitle: "Kstuff Lite 1.11 Beta",
         description: "FPKG enabler",
         fileName: "kstuff.elf",
         author: "sleirsgoevy, john-tornblom, EchoStretch, buzzer-re, BestPig, LightningMods, zecoxao, idlesauce, flatz",
@@ -63,7 +63,7 @@ const payload_map = [
         toPort: 9021
     },
     {
-        displayTitle: "OnionHEN",
+        displayTitle: "OnionHEN v0.0.12",
         description: "AIO HEN. Requires the elfldr on port 9021 to be running.",
         fileName: "OnionHEN.elf",
         author: "aydencharles",
@@ -73,7 +73,7 @@ const payload_map = [
         toPort: 9021
     },
     {
-        displayTitle: "kstuf fpkg-dr",
+        displayTitle: "kstuff-1.13-fpkg-dr-test5",
         description: "fpkg ps5 game for 3.xx/4.xx",
         fileName: "ps5-hen.elf",
         author: "SpecterDev, f0f, flat_z",
@@ -135,7 +135,7 @@ const payload_map = [
         toPort: 9021
     },
     {
-        displayTitle: "shadowmountplus",
+        displayTitle: "ShadowMountPlus_1.7beta2",
         description: "Mount games has never been easier with shadowmountplus",
         fileName: "shadowmountplus.elf",
         author: "drakmor",
