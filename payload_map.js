@@ -73,10 +73,10 @@ const payload_map = [
         toPort: 9021
     },
     {
-        displayTitle: "kstuff-1.13-fpkg-dr-test5",
+        displayTitle: "kstuff-1.13-fpkg-dr-test6",
         description: "fpkg ps5 game for 3.xx/4.xx",
         fileName: "ps5-hen.elf",
-        author: "SpecterDev, f0f, flat_z",
+        author: "Drakmor, SpecterDev, f0f, flat_z",
         projectSource: "",
         binarySource: "",
         version: "n/a",
@@ -135,7 +135,7 @@ const payload_map = [
         toPort: 9021
     },
     {
-        displayTitle: "ShadowMountPlus_1.7beta4",
+        displayTitle: "ShadowMountPlus_1.7beta5",
         description: "Mount games has never been easier with shadowmountplus",
         fileName: "shadowmountplus.elf",
         author: "drakmor",
